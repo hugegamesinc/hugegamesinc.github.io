@@ -48,7 +48,7 @@ html{
 .logo{
   width: 44px;
   height: 39px;
-  background-image: url(../images/beyaz-logo.png);
+  background-image: url(../beyaz-logo.png);
   background-size: contain;
 }
 
@@ -90,7 +90,7 @@ html{
 }
 
 .sticky .logo{
-  background-image: url(../images/logo.png);
+  background-image: url(../logo.png);
 }
 
 .sticky .navbar-menu a{
@@ -104,7 +104,7 @@ html{
 #home{
   height: 100vh;
   min-height: 500px;
-  background: url(../images/bg.jpg) no-repeat center;
+  background: url(../bg.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
